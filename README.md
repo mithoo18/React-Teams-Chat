@@ -17,15 +17,11 @@ You will also see any lint errors in the console.
 ### Deployment
 
 https://teams-chat.netlify.app
+username = deepak\
+password = 123\
 
 ### Images
 <img src = "chat 1.png">
 <img src = "chat 2 .png">
 <img src = "Login.png">
 
-### Deployment
-
-https://teams-chat.netlify.app
-
-username = deepak
-password = 123
