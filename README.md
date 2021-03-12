@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 
 https://teams-chat.netlify.app
 username = deepak\
-password = 123\
+password = 123
 
 ### Images
 <img src = "chat 1.png">
