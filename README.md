@@ -16,8 +16,8 @@ You will also see any lint errors in the console.
 
 ### Deployment
 
-https://teams-chat.netlify.app\
-username = deepak\
+https://teams-chat.netlify.app check.\
+username = deepak (Login Page).\
 password = 123
 
 ### Images
