@@ -25,3 +25,9 @@ password = 123
 <img src = "chat 2 .png">
 <img src = "Login.png">
 
+## Bugs / Issues
+* If found, please report it in issues section.
+
+## Contribute
+* Any contributions or 
+
