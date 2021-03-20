@@ -21,9 +21,15 @@ username = deepak (Login Page).\
 password = 123
 
 ### Images
-<img src = "chat 1.png">
-<img src = "chat 2 .png">
-<img src = "Login.png">
+<table>
+<tr>
+<td><img src ="chat 1.png" width="250" height="250"></td></tr>
+<tr>
+<td><img src ="chat 2.png" width="250" height="250"></td></tr>
+<tr>
+<td><img src ="Login.png" width="250" height="250"></td></tr>
+</table>
+
 
 ## Bugs / Issues
 * If found, please report it in issues section.
