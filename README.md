@@ -25,7 +25,7 @@ password = 123
 <tr>
 <td><img src ="chat 1.png" width="250" height="250"></td></tr>
 <tr>
-<td><img src ="chat 2.png" width="250" height="250"></td></tr>
+<td><img src ="chat 2 .png" width="250" height="250"></td></tr>
 <tr>
 <td><img src ="Login.png" width="250" height="250"></td></tr>
 </table>
