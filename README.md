@@ -19,9 +19,8 @@ $ git remote remove origin
 
 <table>
 <tr>
-<td><img align="left" src="chat 1.png" alt="Main Screen" /></td>
-<td><img align="right" src="chat 2.png" alt="Logo" /></td>
-<td><img align="right" src="Login.png" alt="Logo" /></td> 
+<td><img align="left" src="Login.png" alt="Login" /></td>
+<td><img align="right" src="chat 1.png"  alt="Chatting" /></td> 
  
 </tr>
 </table>
