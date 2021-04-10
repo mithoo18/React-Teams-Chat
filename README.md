@@ -1,4 +1,4 @@
-### Weather
+### React-Teams-Chat
 
 ### Getting Started 🚀
 
