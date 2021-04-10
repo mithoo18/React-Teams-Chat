@@ -1,3 +1,31 @@
+### Weather
+
+### Getting Started 🚀
+
+```
+# Clone this repository
+$ git clone https://github.com/mithoo18/React-Teams-Chat
+
+# Go into the repository
+$ cd React-Teams-Chat
+
+# Remove current origin repository
+$ git remote remove origin
+```
+
+---
+
+### How it looks 
+
+<table>
+<tr>
+<td><img align="left" src="chat 1.png" alt="Main Screen" /></td>
+<td><img align="right" src="chat 2.png" alt="Logo" /></td>
+<td><img align="right" src="Login.png" alt="Logo" /></td> 
+ 
+</tr>
+</table>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -20,20 +48,4 @@ https://teams-chat.netlify.app check.\
 username = deepak (Login Page).\
 password = 123
 
-### Images
-<table>
-<tr>
-<td><img src ="chat 1.png" width="250" height="250"></td></tr>
-<tr>
-<td><img src ="chat 2 .png" width="250" height="250"></td></tr>
-<tr>
-<td><img src ="Login.png" width="250" height="250"></td></tr>
-</table>
-
-
-## Bugs / Issues
-* If found, please report it in issues section.
-
-## Contribute
-* Any contributions or 
-
+#### Developed with ❤ by @Devanshu || mithoo18.
