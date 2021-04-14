@@ -14,6 +14,11 @@ $ git remote remove origin
 ```
 
 ---
+### About Application 
+
+- Technology :- HTML,CSS,ReactJs,API
+- 
+- Features :- Login,Registration,Chat,Join Group,Group Chat
 
 ### How it looks 
 
